@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerControl.cs">
+    <Files>
+      <File FileName="Assets\toNextLevel.cs" Line="7" Column="26" />
+      <File FileName="Assets\ACrewAI.cs" Line="105" Column="89" />
+      <File FileName="Assets\PlayerControl.cs" Line="40" Column="13" />
+      <File FileName="Assets\InstructionsDialogue.cs" Line="36" Column="3" />
+      <File FileName="Assets\instructTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\waterlevelUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\switchLevel3.cs" Line="1" Column="1" />
+      <File FileName="Assets\followFalling.cs" Line="15" Column="107" />
+      <File FileName="Assets\EnableAnExit.cs" Line="5" Column="2" />
+      <File FileName="Assets\getInandOutofBed.cs" Line="47" Column="3" />
+      <File FileName="Assets\platformfalltrigger.cs" Line="41" Column="2" />
+      <File FileName="Assets\AppearDisappear.cs" Line="52" Column="2" />
+      <File FileName="Assets\exitAttempt.cs" Line="19" Column="18" />
+      <File FileName="Assets\EnableAnEscape.cs" Line="21" Column="20" />
+      <File FileName="Assets\setCurrentLevel.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
