@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/new_level1_circle_room.unity
+  isLoaded: 1
+  isActive: 1
