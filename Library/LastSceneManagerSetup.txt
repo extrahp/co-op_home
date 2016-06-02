@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/new_level1_circle_room.unity
+- path: Assets/new_level3_trains.unity
   isLoaded: 1
   isActive: 1
